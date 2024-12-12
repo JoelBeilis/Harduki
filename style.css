@@ -1,7 +1,7 @@
-header {
+body {
     background-image:url(assets/NoEpstein.png);
-    background-repeat: repeat-x;
-    background-size: 300px, 300px;
+    background-repeat: repeat-xy;
+    background-size: 100px, 100px;
    
     margin-left: 200px;
     rotate: 1deg;
